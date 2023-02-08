@@ -1,4 +1,6 @@
-### Hi there 👋
+Hi 👋
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="282" height="20" role="img" aria-label="저는 여태까지: 66 Thousand 줄의 코드를 작성했어요."><title>저는 여태까지: 66 Thousand 줄의 코드를 작성했어요.</title><linearGradient id="s" x2="0" y2="100%"><stop offset="0" stop-color="#bbb" stop-opacity=".1"/><stop offset="1" stop-opacity=".1"/></linearGradient><clipPath id="r"><rect width="282" height="20" rx="3" fill="#fff"/></clipPath><g clip-path="url(#r)"><rect width="79" height="20" fill="#555"/><rect x="79" width="203" height="20" fill="#007ec6"/><rect width="282" height="20" fill="url(#s)"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110"><text aria-hidden="true" x="405" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="690">저는 여태까지</text><text x="405" y="140" transform="scale(.1)" fill="#fff" textLength="690">저는 여태까지</text><text aria-hidden="true" x="1795" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="1930">66 Thousand 줄의 코드를 작성했어요.</text><text x="1795" y="140" transform="scale(.1)" fill="#fff" textLength="1930">66 Thousand 줄의 코드를 작성했어요.</text></g></svg>
 
 <!--
 **YongUn22/YongUn22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
